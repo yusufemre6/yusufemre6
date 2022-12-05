@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufemre6
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning c++ programming language
+- 🌱 I’m currently learning c++ programming language and SQL 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me yusufemre74ye6@gmail.com
 
