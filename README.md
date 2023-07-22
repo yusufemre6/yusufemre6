@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufemre6
 - 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning javascript programming language and NoSQL 
+- 🌱 I’m currently learning Node.js and MongoDb 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me yusufemre74ye6@gmail.com
 
